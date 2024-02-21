@@ -1,19 +1,19 @@
 ExpenseTracker
 
-Overview
+Overview:
 ExpenseTracker is a simple web application built with vanilla JavaScript that helps users track their expenses. It utilizes Array Methods for data manipulation and Local Storage for persistent data storage.
 
-Features
+Features:
 Add Expense: Easily add a new expense with details such as name, amount, and date.
 Delete Expense: Remove unwanted expenses to keep your records clean.
 Total Expenses: See the total amount of all recorded expenses.
 
-Usage
+Usage:
 Open index.html to launch the ExpenseTracker application.
 Add new expenses using the provided form.
 Delete expenses by clicking the delete button next to each entry.
 
-Technologies Used
+Technologies Used:
 Vanilla JavaScript
 HTML
 CSS
